@@ -8,15 +8,15 @@ index file
 
 static folder
 
-1)css
+  1)css
 
-2)images
+  2)images
 
-3)js
+  3)js
 
- a)app.js
+      a)app.js
  
- b)data.js
+      b)data.js
  
 
 #UFO Level-2
@@ -25,13 +25,13 @@ index file
 
 static folder
 
-1)css
+  1)css
 
-2)images
+  2)images
 
-3)js
+  3)js
 
- a)app.js
+     a)app.js
  
- b)data.js
+     b)data.js
  
